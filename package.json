@@ -46,7 +46,7 @@
     "babel-preset-jest": "^10.0.1",
     "babel-preset-react": "^6.5.0",
     "browserify": "10.x",
-    "gulp": "3.9.0",
+    "gulp": "^3.9.0",
     "gulp-babel": "^5.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.5.2",
